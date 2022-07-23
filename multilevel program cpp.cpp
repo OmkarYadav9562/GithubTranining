@@ -41,7 +41,7 @@ main()
 {
 	C c;
 	c.accept();
-	c.get();
+	c.get();//
 	c.getdata();
 	c.display();
 }
